@@ -1,3 +1,23 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'http://localhost:1234'
+languageCode = 'de-DE'
+title = 'Queer@HTW'
+
+theme = "hugo-theme-console"
+
+# Cutting off the page title to two chars for mobile (console-demo -> co)
+titleCutting = true
+
+animateStyle = "animated zoomIn fast" 
+
+
+[[params.navlinks]]
+  name = "about/"
+  url = "about/"
+
+#[[params.navlinks]]
+#  name = "posts/"
+#  url = "posts/"
+  
+[[params.navlinks]]
+  name = "mailingliste/"
+  url = "mailingliste/"
