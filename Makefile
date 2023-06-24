@@ -6,5 +6,5 @@ port=1234
 
 
 hugo :  
-- open http://localhost:1234/
+- open http://localhost:$(port)/
 - hugo --buildDrafts -p $(port) server

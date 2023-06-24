@@ -1,6 +1,0 @@
-.terminal-prompt::after {
-    -webkit-animation: cursor 1s infinite;
-    animation: cursor 1s ;
-    background-color: linear-gradient(180deg, #ff0018 , #ffa52c , #ffff41 , #008018, #0000F9, #86007D );
-    width: 10px;
-}
