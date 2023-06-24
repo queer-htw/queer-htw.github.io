@@ -1,24 +1,24 @@
 {{ define "main" }}
 
-<h1>About</h1>
 
+
+{{ with .Site.GetPage "/about" }}
+<h1>{{ .Title }}</h1>
 <p>
-    {{ with .Site.GetPage "/about" }}
     {{ .Summary }}
-    {{ end }}
-<a href="/about">(more)</a>
+    <a href="/about">(more)</a>
 </p>
 <br/>
+{{ end }}
 
-<h1>Mailliste</h1>
-
+{{ with .Site.GetPage "/mailingliste" }}
+<h1>{{ .Title }}</h1>
 <p>
-    {{ with .Site.GetPage "/mailingliste" }}
     {{ .Summary }}
-    {{ end }}
     <a href="/mailingliste">(more)</a>
 </p>
 <br/>
+{{ end }}
 
 <hr/>
 ... Ab hier Beispiele aus dem Theme: 

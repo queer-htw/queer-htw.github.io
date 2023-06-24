@@ -14,10 +14,11 @@ animateStyle = "animated zoomIn fast"
   name = "about/"
   url = "about/"
 
-#[[params.navlinks]]
-#  name = "posts/"
-#  url = "posts/"
-  
 [[params.navlinks]]
   name = "mailingliste/"
   url = "mailingliste/"
+
+[[params.navlinks]]
+  name = "posts/"
+  url = "posts/"
+  
