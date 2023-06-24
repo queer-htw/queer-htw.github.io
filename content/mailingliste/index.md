@@ -1,7 +1,7 @@
 ---
 title: "Mailingliste"
 date: 2023-06-22T21:52:23+02:00
-draft: true
+draft: false
 ---
 
 Wir haben eine Mailingliste eingerichtet.
