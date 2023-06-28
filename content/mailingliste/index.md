@@ -1,11 +1,10 @@
 ---
 title: "Mailingliste"
-date: 2023-06-22T21:52:23+02:00
+date: "2023-06-28"
 draft: false
 ---
 
-Wir haben eine Mailingliste eingerichtet.
-<!--more--> Hier könnt Ihr Euch eintragen:
+Wir haben eine Mailingliste zur Vernetzung untereinander eingerichtet,<!--more--> hier kannst Du Dich eintragen: (nicht vergessen auf die Bestätigungsmail zu antworten!)
 
 [https://lists.htw-berlin.de/mailman/listinfo/queer-htw](https://lists.htw-berlin.de/mailman/listinfo/queer-htw)
 
